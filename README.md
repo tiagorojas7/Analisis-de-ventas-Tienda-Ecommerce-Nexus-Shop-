@@ -30,7 +30,7 @@ Transformé 5 archivos CSV desorganizados en un dashboard interactivo que muestr
 ### [3. Dashboard Power BI](https://github.com/tiagorojas7/Analisis-de-ventas-Tienda-Ecommerce-Nexus-Shop-/tree/main/3-power-bi)
 **📊 Dashboard Interactivo Nexus Shop:**
 - [`Dashboard Nexus Shop.pbix`](enlace) - Archivo completo interactivo
-- [`dashboard_documentation.md`](enlace) - Documentación detallada
+- [`dashboard_documentation.md`](https://github.com/tiagorojas7/Analisis-de-ventas-Tienda-Ecommerce-Nexus-Shop-/blob/main/3-power-bi/dashboard_documentation.md) - Documentación detallada
 
 **🖼️ Vistas Destacadas:**
 ![Vista General](3-power-bi/01_dashboard_completo.png)
