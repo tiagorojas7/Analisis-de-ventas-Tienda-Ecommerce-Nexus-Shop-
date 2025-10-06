@@ -1,93 +1,103 @@
- # Reporte de Desempeño – Nexus Shop 
-**Periodo: 2024/2026**
+# Reporte de Desempeño - Nexus Shop  
+**Periodo de Análisis: 2024 - 2026**
 
-## 1. Resumen Ejecutivo
+## 📊 Resumen Ejecutivo
 
-Durante el período analizado, Nexus Shop alcanzó **200 ventas**, que generaron **3.67 millones en ingresos netos** y un **margen neto de 1.12 millones**. Sin embargo, se registraron **79 devoluciones**, lo que evidencia un área crítica de mejora, ya que las devoluciones reducen la rentabilidad de manera significativa.
+### Resultados Clave del Período
+- **📈 373 ventas** procesadas y analizadas
+- **💰 4.66 millones** en ingresos netos generados
+- **💹 910.94 mil** de margen neto alcanzado
+- **🔄 79 devoluciones** identificadas como área crítica
 
-Los datos muestran que la tienda tiene meses con picos de facturación muy altos, impulsados principalmente por productos tecnológicos de alto valor, mientras que en otros meses las ventas caen de forma considerable. Además, existe una concentración de ingresos en pocos empleados y en un número reducido de productos, lo cual puede ser una fortaleza en el corto plazo, pero representa un riesgo a futuro.
+### Situación Actual del Negocio
+Nexus Shop demuestra un desempeño sólido impulsado principalmente por productos tecnológicos y de mobiliario de alto valor. Sin embargo, el análisis revela una **doble realidad**: fortalezas en eficiencia y foco comercial, pero con riesgos latentes por concentración en pocos empleados y productos específicos.
 
-## 2. Análisis de Ventas e Ingresos
+## 🔍 Análisis Detallado por Área
 
-El análisis mensual revela que los meses más exitosos en ingresos fueron:
-- **Mayo: 429.3 mil**
-- **Septiembre: 415.6 mil**
+### 2. Análisis de Ventas e Ingresos
 
-Estos picos podrían estar asociados a promociones, campañas estacionales o lanzamientos de productos de alto ticket.
+**📅 Estacionalidad y Tendencias Mensuales:**
+- **Meses Pico:** Febrero (987.7K) y Mayo (499.5K) - asociados a posibles campañas promocionales exitosas
+- **Meses Débiles:** Marzo (253.6K) y Diciembre (233.1K) - oportunidades de mejora en estrategias de cierre
+- **Flujo Constante:** 373 transacciones mantienen estabilidad operacional
 
-Por el contrario, los meses más débiles fueron:
-- **Enero: 143.0 mil** 
-- **Marzo: 194.5 mil**
+**🎯 Insight Principal:**
+La variabilidad de ingresos está más vinculada al **valor del ticket promedio** que al volumen de transacciones, confirmando que los productos de alto valor son el motor principal de rentabilidad.
 
-Esto refleja una clara estacionalidad: al inicio del año, la demanda es más baja, probablemente por el efecto post-fiestas, mientras que en marzo parece existir una caída puntual que merece análisis adicional.
+### 3. Desempeño del Equipo Comercial
 
-En general, el número de ventas se mantuvo estable, lo que indica que la variación de ingresos está más vinculada al **tipo de producto vendido** que a la cantidad de transacciones. Esto significa que el **ticket promedio** de cada venta es el verdadero motor de los ingresos.
+**👥 Distribución de Ingresos por Empleado:**
+- **Carlos Méndez:** 22.9% - Líder en ventas
+- **Pedro Martínez:** 21.1% - Alto desempeño consistente
+- **Ana Rodríguez:** 19.6% - Resultados sólidos
+- **Laura Gómez:** 19.9% - Contribución equilibrada
+- **Diego Silva:** 16.4% - Oportunidad de crecimiento
 
-## 3. Ingresos por Empleado
+**💼 Evaluación del Equipo:**
+Distribución relativamente equilibrada que indica una fuerza de ventas cohesionada, con oportunidades para estandarizar mejores prácticas y elevar el desempeño general.
 
-El análisis por empleado muestra que:
-- **Pedro Martínez, Carlos Méndez y Ana Rodríguez** concentran más del **70%** de los ingresos generados
-- **Diego Silva** apenas aporta un **9.8%**
+### 4. Análisis de Productos
 
-Esta fuerte concentración puede ser positiva en términos de eficiencia, pero también representa un **riesgo**, porque si alguno de los principales empleados se desvincula, la facturación global se vería comprometida.
+**🏆 Top 5 Productos por Rentabilidad:**
 
-Es clave replicar las mejores prácticas de los vendedores más productivos hacia el resto del equipo, estandarizar procesos y equilibrar mejor la distribución de cuentas y oportunidades.
+| Producto | Ventas | Ingresos Netos | Devoluciones | Observaciones |
+|----------|--------|----------------|--------------|---------------|
+| Escritorio Madera | 23 | 946.5K | 2 | **Líder en ingresos**, baja devolución |
+| Portátil Gaming | 7 | 580K | 3 | **Alto margen**, desempeño sólido |
+| Monitor 32 4K | 7 | 330K | 1 | Rentabilidad estable |
+| Silla Visitantes | 22 | 306K | 5 | Alto volumen, moderadas devoluciones |
+| Smartphone Ultra | 8 | 269.7K | 5 | **Problema crítico**: mayor tasa de devolución |
 
-## 4. Productos más Relevantes
+**🚨 Alerta de Producto:**
+El **Smartphone Ultra** presenta la mayor tasa de devoluciones, sugiriendo posibles problemas de:
+- Control de calidad
+- Expectativas no cumplidas
+- Comunicación en tienda online
 
-Dentro del portafolio:
-- **Portátil Gaming**: El más rentable, alcanzando más de **580 mil en ingresos netos**
-- **Escritorio de Madera y Smartphone Ultra**: Generan altos ingresos brutos, pero tras las devoluciones su aporte neto es mucho menor
+### 5. Distribución Geográfica
 
-El **Smartphone Ultra**, en particular, presenta el **mayor número de devoluciones** del portafolio, lo cual es una señal de alerta. Puede estar relacionado con:
-- Problemas de calidad
-- Descripción poco clara en la tienda online  
-- Desajuste entre expectativas y realidad
+**🗺️ Mercados Consolidados:**
+- **Madrid, Barcelona, Bilbao:** Polos rentables con alta densidad de clientes
 
-En cambio, productos como el **Monitor 32 4K** y la **Tablet Drawing** tienen ingresos más modestos pero estables.
+**🌱 Oportunidades de Expansión:**
+- **Sevilla y Valencia:** Mercados secundarios con potencial de crecimiento no explotado
 
-La tienda depende de pocos productos para sostener la rentabilidad, por lo que es necesario **diversificar el catálogo** y reforzar los artículos de mayor margen neto.
+## 🎯 Insights Estratégicos Prioritarios
 
-## 5. Distribución Geográfica
+### 1. 🚨 Gestión de Devoluciones (CRÍTICO)
+**Problema:** 79 devoluciones impactan rentabilidad, especialmente Smartphone Ultra
+**Acción Recomendada:** Auditoría de control de calidad y mejora en comunicación postventa
 
-**Mercados consolidados:**
-- Madrid
-- Barcelona  
-- Bilbao
+### 2. 📦 Diversificación de Productos (ALTA PRIORIDAD)
+**Problema:** Dependencia de productos de alto valor genera volatilidad en ingresos
+**Acción Recomendada:** Ampliar catálogo y potenciar artículos de mayor margen
 
-Esto confirma la fortaleza de la marca en grandes centros urbanos.
+### 3. 👥 Optimización del Equipo (MEDIA PRIORIDAD)
+**Problema:** Desempeño desigual aunque equilibrado
+**Acción Recomendada:** Estandarizar mejores prácticas de vendedores líderes
 
-**Oportunidades de crecimiento:**
-- Valencia
-- Sevilla
+### 4. 📅 Gestión de Estacionalidad (MEDIA PRIORIDAD)
+**Problema:** Caídas significativas en marzo y diciembre
+**Acción Recomendada:** Refuerzos promocionales en meses débiles
 
-Mediante campañas de marketing localizadas y promociones específicas, estas ciudades podrían convertirse en focos de crecimiento.
+### 5. 🌍 Expansión Regional (BAJA PRIORIDAD)
+**Problema:** Mercados secundarios subexplotados
+**Acción Recomendada:** Campañas de marketing geolocalizadas
 
-## 6. Insights Estratégicos
+## 📈 Métricas Clave de Seguimiento
 
-### 🔴 Gestión de Devoluciones
-Las devoluciones, especialmente en el Smartphone Ultra, impactan negativamente la rentabilidad
+| Métrica | Valor Actual | Objetivo | Tendencia |
+|---------|--------------|----------|-----------|
+| Tasa de Devolución | 21.2% | <15% | ⚠️ Crítica |
+| Ingresos Netos | 4.66M | 5.5M | 📈 Positiva |
+| Margen Neto | 910.94K | 1.1M | 📈 Estable |
+| Distribución Equipo | 16.4%-22.9% | 18%-22% | ⚖️ Equilibrada |
 
-### 📦 Dependencia de Productos Alto Ticket  
-Los ingresos fluctúan más por el tipo de producto que por el número de ventas. Se debe potenciar la venta de artículos de mayor margen y diversificar la oferta.
+## 🏁 Conclusión y Recomendaciones Finales
 
-### 👥 Equilibrio en Desempeño de Empleados
-Replicar las mejores prácticas de los vendedores más exitosos ayudará a distribuir mejor el peso de las ventas y reducir riesgos.
+### Estado Actual:
+Nexus Shop mantiene una **tendencia positiva** con ventas sólidas y margen saludable, pero enfrenta desafíos estructurales que requieren atención inmediata.
 
-### 📅 Estacionalidad
-Los picos en Mayo y Septiembre demuestran que la tienda tiene ventanas naturales de alto consumo, mientras que Enero y Marzo requieren estímulos adicionales.
 
-### 🌍 Expansión Geográfica
-Sevilla y Valencia representan mercados con potencial no explotado.
-
-## 7. Conclusión
-
-Nexus Shop ha logrado consolidar ingresos significativos y un margen positivo, pero enfrenta desafíos que pueden comprometer su crecimiento futuro si no se gestionan.
-
-**Acciones clave:**
-- Diversificar productos
-- Equilibrar equipos  
-- Reducir devoluciones
-- Potenciar campañas estacionales
-
-Si se ejecutan estas acciones, la tienda no solo incrementará su rentabilidad, sino que también mejorará la satisfacción de los clientes y su sostenibilidad a largo plazo.
+**📄 Documento Original:** [`Reporte_NexusShop_Actualizado.pdf`](Reporte_NexusShop_Actualizado.pdf)  
+**🔧 Herramientas Utilizadas:** SQL, Power Query, Power BI
