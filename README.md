@@ -27,7 +27,7 @@ Transformé 5 archivos CSV desorganizados en un dashboard interactivo que muestr
 - [`05_analisis_clientes.sql`](2-sql-queries/05_analisis_clientes.sql) - Comportamiento y distribución geográfica
 - [`06_consulta_final_dashboard.sql`](2-sql-queries/06_consulta_final_dashboard.sql) - Datos consolidados para Power BI
 
-### [3. Dashboard Power BI](https://github.com/tiagorojas7/Analisis-de-ventas-Tienda-Ecommerce-Nexus-Shop-/tree/main?tab=readme-ov-file)
+### [3. Dashboard Power BI](https://github.com/tiagorojas7/Analisis-de-ventas-Tienda-Ecommerce-Nexus-Shop-/tree/main/3-power-bi)
 - `dashboard_nexus_shop.pbix` - Archivo interactivo completo
 - `dashboard_preview.png` - Vista previa del dashboard
 
