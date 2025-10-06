@@ -68,7 +68,6 @@ Transformé 5 archivos CSV desorganizados en un dashboard interactivo que muestr
 
 **📋 Análisis Ejecutivo Completo - Nexus Shop:**
 
-[`Reporte_NexusShop_Actualizado.pdf`](enlace) - **Reporte ejecutivo detallado** que incluye:
 - **Análisis de 373 ventas** y 4.66M en ingresos netos
 - **Identificación de 79 devoluciones** como área crítica
 - **5 insights estratégicos** priorizados por impacto
