@@ -48,8 +48,20 @@ Transformé 5 archivos CSV desorganizados en un dashboard interactivo que muestr
 - ✅ **Top productos** con impacto de devoluciones
 - ✅ **Capacidad de drill-down** geográfico y por categoría
 
-### [4. Datos Procesados](https://github.com/tiagorojas7/Analisis-de-ventas-Tienda-Ecommerce-Nexus-Shop-/tree/main?tab=readme-ov-file)
-- Dataset final limpio y listo para análisis
+### [4. Datos Procesados](enlace-a-carpeta)
+
+**🧹 Datos Limpios y Listos para Análisis:**
+- Dataset final unificado y depurado
+- Datos consistentes después de procesos ETL
+- Estructura optimizada para reporting
+- Base para el dashboard de Power BI
+
+**📊 Procesos de Limpieza Aplicados:**
+- Eliminación de duplicados y valores nulos
+- Transformacion de palabras mal escritas
+- Estandarización de formatos y categorías
+- Cálculo de métricas derivadas (márgenes, tasas)
+- Unificación de múltiples fuentes de datos
 
 ### [5. Documentación](https://github.com/tiagorojas7/Analisis-de-ventas-Tienda-Ecommerce-Nexus-Shop-/tree/main?tab=readme-ov-file)
 - [`reporte-desempeno-detallado.md`](5-documentacion/reporte-desempeno-detallado.md) - Análisis completo de resultados
