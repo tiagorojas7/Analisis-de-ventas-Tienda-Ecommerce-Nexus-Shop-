@@ -12,17 +12,32 @@ Transformé 5 archivos CSV desorganizados en un dashboard interactivo que muestr
 
 ## 📁 Qué Encontrarás en Este Proyecto
 
+## 📁 Estructura del Proyecto
+
 ### [1. Datos Originales](1-datos-crudos/)
-Los 5 archivos CSV tal como los recibí inicialmente.
+- `clientes.csv` - Base de datos de clientes
+- `ventas.csv` - Transacciones comerciales
+- `productos.csv` - Catálogo de productos
+- `trabajadores.csv` - Información del equipo
+- `opiniones.csv` - Feedback y devoluciones
 
-### [2. Mis Consultas SQL](2-sql-queries/)
-El código que escribí para analizar y unir los datos.
+### [2. Consultas SQL](2-sql-queries/)
+- [`01_union_tablas.sql`](2-sql-queries/01_union_tablas.sql) - Uniones básicas entre tablas
+- [`02_analisis_devoluciones.sql`](2-sql-queries/02_analisis_devoluciones.sql) - Tasa de devolución por producto
+- [`03_analisis_ventas_productos.sql`](2-sql-queries/03_analisis_ventas_productos.sql) - Métricas por producto y categoría
+- [`04_analisis_empleados.sql`](2-sql-queries/04_analisis_empleados.sql) - Desempeño del equipo comercial
+- [`05_analisis_clientes.sql`](2-sql-queries/05_analisis_clientes.sql) - Comportamiento y distribución geográfica
+- [`06_consulta_final_dashboard.sql`](2-sql-queries/06_consulta_final_dashboard.sql) - Datos consolidados para Power BI
 
-### [3. Mi Dashboard](3-power-bi/)
-El reporte interactivo que creé + capturas de pantalla.
+### [3. Dashboard Power BI](3-power-bi/)
+- `dashboard_nexus_shop.pbix` - Archivo interactivo completo
+- `dashboard_preview.png` - Vista previa del dashboard
 
-### [4. Datos Limpios](4-datos-procesados/)
-La información ya procesada y lista para usar.
+### [4. Datos Procesados](4-datos-procesados/)
+- Dataset final limpio y listo para análisis
+
+### [5. Documentación](5-documentacion/)
+- [`reporte-desempeno-detallado.md`](5-documentacion/reporte-desempeno-detallado.md) - Análisis completo de resultados
 
 ## 📈 Resultados y Impacto
 
