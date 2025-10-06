@@ -24,10 +24,27 @@ El reporte interactivo que creé + capturas de pantalla.
 ### [4. Datos Limpios](4-datos-procesados/)
 La información ya procesada y lista para usar.
 
-## 💡 Lo que Descubrí
-1. **Los productos más vendidos** son X y Y
-2. **La temporada con más ventas** es Diciembre
-3. **Los clientes más valicios** generan el 60% de los ingresos
+## 📈 Resultados y Impacto
+
+### 🎯 Logros Principales
+- **3.67M** en ingresos netos generados
+- **1.12M** de margen neto alcanzado
+- **200** ventas procesadas y analizadas
+- **79** devoluciones identificadas como área crítica
+
+### 💡 Insights Estratégicos Descubiertos
+1. **📊 Estacionalidad Marcada**: Mayo y Septiembre (+400K) vs Enero (143K)
+2. **👥 Concentración de Ventas**: 3 empleados generan 70% de los ingresos
+3. **📦 Dependencia de Productos**: Portátil Gamming aporta 580K solo
+4. **🔄 Alto Índice Devoluciones**: Smartphone Ultra con mayor tasa de retornos
+5. **🌍 Oportunidad Geográfica**: Valencia y Sevilla con potencial de crecimiento
+
+### 🚀 Recomendaciones Clave
+- Reducir devoluciones mediante mejoras en calidad/descripciones
+- Diversificar cartera de productos y equilibrar desempeño del equipo
+- Capitalizar estacionalidad con campañas específicas
+
+**[📖 Ver Análisis Completo](5-documentacion/reporte-desempeno-detallado.md)**
 
 ---
 Proyecto creado por Tiago Rojas - Analista de Datos
