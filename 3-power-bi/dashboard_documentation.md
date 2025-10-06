@@ -16,6 +16,7 @@ Dashboard interactivo desarrollado en Power BI para el análisis integral de Nex
 
 ### 2. Análisis de Tendencias Temporales  
 ![Tendencias Mensuales](02_tendencias_mensuales.png)
+
 **Evolución de ingresos netos y volumen de ventas:**
 - Seguimiento mensual desde Enero hasta Diciembre
 - Identificación de picos estacionales (Febrero: 987.7K, Mayo: 499.5K)
