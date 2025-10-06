@@ -1,0 +1,80 @@
+﻿return_id;sale_id;return_date;return_reason
+1;10002;25/1/2024;Defectuoso
+2;10003;20/2/2024;Cambio De Talla
+6;10005;28/2/2024;Dañado Durante Envío
+4;10007;10/3/2024;Defectuoso
+5;10008;12/3/2024;Arrepentimiento
+63;10010;20/3/2024;Silla Incómoda
+7;10012;5/4/2024;No Funciona
+64;10014;10/4/2024;Color Diferente
+8;10015;15/4/2024;Pantalla Rota
+65;10017;25/4/2024;Material Pobre
+9;10018;10/5/2024;Defectuoso
+66;10021;15/5/2024;Sonido Bajo
+10;10022;25/5/2024;Cambio De Modelo
+67;10024;30/5/2024;Tamaño Pequeño
+11;10025;12/6/2024;No Satisface Expectativas
+68;10027;15/6/2024;Luz No Funciona
+12;10030;8/7/2024;Defecto Fabrica
+69;10031;5/7/2024;No Ergonómica
+13;10033;20/7/2024;Incompatible
+70;10034;22/7/2024;Pantalla Brillo Bajo
+14;10037;15/8/2024;Arrepentimiento
+71;10038;12/8/2024;Batería Corta
+15;10041;28/8/2024;Botón No Funciona
+72;10043;2/9/2024;Estabilidad Pobre
+16;10045;12/9/2024;No Le Gusta
+73;10046;20/9/2024;Cable Corto
+17;10049;5/10/2024;Dañado
+74;10050;8/10/2024;Conector Suelto
+18;10052;20/10/2024;No Imprime
+75;10053;26/10/2024;Volumen Bajo
+19;10056;10/11/2024;Calidad Inferior
+76;10057;13/11/2024;No Conecta
+20;10060;28/11/2024;No Enciende
+77;10061;1/12/2024;Sobrecalentamiento
+78;10064;19/12/2024;Impresión Pobre
+21;10065;15/12/2024;Defectuoso
+79;10067;6/1/2025;Rendimiento Bajo
+22;10068;10/1/2025;Mal Funcionamiento
+80;10071;24/1/2025;Design Flaw
+23;10072;25/1/2025;Cambio De Opinión
+24;10075;12/2/2025;No Esperaba Esto
+25;10078;28/2/2025;Defecto
+26;10082;15/3/2025;Dañado En Transporte
+27;10085;2/4/2025;No Compatible
+28;10089;20/4/2025;Calidad Mala
+29;10092;8/5/2025;No Funciona Correctamente
+30;10095;25/5/2025;Botón Stuck
+31;10098;12/6/2025;Color Diferente
+32;10102;30/6/2025;Pantalla Muerta
+33;10105;18/7/2025;No Carga
+34;10108;5/8/2025;Píxeles Muertos
+35;10112;22/8/2025;Demasiado Grande
+36;10115;10/9/2025;Procesador Lento
+37;10118;28/9/2025;Wifi No Funciona
+38;10122;15/10/2025;Altavoz Roto
+39;10125;2/11/2025;Inestable
+40;10128;20/11/2025;No Enciende
+41;10132;8/12/2025;Conector Roto
+42;10135;25/12/2025;Color Desvaído
+43;10138;12/1/2026;Sonido Pobre
+44;10142;30/1/2026;Pantalla Rayada
+45;10145;17/2/2026;Batería Defectuosa
+46;10148;7/3/2026;No Arranca
+47;10152;25/3/2026;Pierde Conexión
+48;10155;12/4/2026;Calienta Mucho
+49;10158;30/4/2026;Puerto Usb Roto
+50;10162;18/5/2026;Resolución Baja
+51;10165;5/6/2026;Micrófono No Funciona
+52;10168;23/6/2026;Pantalla Táctil No Responde
+53;10172;11/7/2026;Software Defectuoso
+54;10175;29/7/2026;Gpu Defectuosa
+55;10178;16/8/2026;Tecla Stuck
+56;10182;3/9/2026;Altavoz Distorsionado
+57;10185;21/9/2026;Tamaño Incorrecto
+58;10188;9/10/2026;No Mantiene Carga
+59;10192;27/10/2026;Driver Issues
+60;10195;14/11/2026;Carcasa Rota
+61;10198;2/12/2026;Overheating
+62;10200;20/12/2026;Pantalla Amarillenta
