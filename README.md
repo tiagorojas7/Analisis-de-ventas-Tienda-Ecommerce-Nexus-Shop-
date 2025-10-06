@@ -12,7 +12,7 @@ Transformé 5 archivos CSV desorganizados en un dashboard interactivo que muestr
 
 ## 📁 Estructura del Proyecto
 
-### [1. Datos Originales](1-datos-crudos/)
+### [1. Datos Originales](:1-datos-crudos/)
 - `clientes.csv` - Base de datos de clientes
 - `ventas.csv` - Transacciones comerciales
 - `productos.csv` - Catálogo de productos
