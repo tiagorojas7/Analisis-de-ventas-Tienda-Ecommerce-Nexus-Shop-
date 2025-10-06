@@ -63,23 +63,28 @@ Transformé 5 archivos CSV desorganizados en un dashboard interactivo que muestr
 - Cálculo de métricas derivadas (márgenes, tasas)
 - Unificación de múltiples fuentes de datos
 
-### [5. Documentación](https://github.com/tiagorojas7/Analisis-de-ventas-Tienda-Ecommerce-Nexus-Shop-/tree/main?tab=readme-ov-file)
+### [5. Documentación](https://github.com/tiagorojas7/Analisis-de-ventas-Tienda-Ecommerce-Nexus-Shop-/blob/main/Reporte/reporte-desempeno-detallado.md)
 - [`reporte-desempeno-detallado.md`](5-documentacion/reporte-desempeno-detallado.md) - Análisis completo de resultados
 
-## 📈 Resultados y Impacto
+**📋 Análisis Ejecutivo Completo - Nexus Shop:**
 
-### 🎯 Logros Principales
-- **3.67M** en ingresos netos generados
-- **1.12M** de margen neto alcanzado
-- **200** ventas procesadas y analizadas
-- **79** devoluciones identificadas como área crítica
+[`Reporte_NexusShop_Actualizado.pdf`](enlace) - **Reporte ejecutivo detallado** que incluye:
+- **Análisis de 373 ventas** y 4.66M en ingresos netos
+- **Identificación de 79 devoluciones** como área crítica
+- **5 insights estratégicos** priorizados por impacto
+- **Recomendaciones accionables** para optimización
 
-### 💡 Insights Estratégicos Descubiertos
-1. **📊 Estacionalidad Marcada**: Mayo y Septiembre (+400K) vs Enero (143K)
-2. **👥 Concentración de Ventas**: 3 empleados generan 70% de los ingresos
-3. **📦 Dependencia de Productos**: Portátil Gamming aporta 580K solo
-4. **🔄 Alto Índice Devoluciones**: Smartphone Ultra con mayor tasa de retornos
-5. **🌍 Oportunidad Geográfica**: Valencia y Sevilla con potencial de crecimiento
+**📊 Hallazgos Principales:**
+- 🚨 **Smartphone Ultra** con mayor tasa de devolución (21.2%)
+- 📦 **Dependencia** de productos de alto valor (Escritorio Madera: 946.5K)
+- 👥 **Equipo equilibrado** con distribución 16.4%-22.9%
+- 📅 **Estacionalidad marcada** (Febrero: 987.7K vs Marzo: 253.6K)
+- 🌍 **Oportunidad geográfica** en Sevilla y Valencia
+
+**🔍 Metodología de Análisis:**
+- Procesamiento ETL con Power Query
+- Uniones SQL avanzadas entre 5 tablas
+- Dashboard interactivo en Power BI
 
 ### 🚀 Recomendaciones Clave
 - Reducir devoluciones mediante mejoras en calidad/descripciones
@@ -90,3 +95,4 @@ Transformé 5 archivos CSV desorganizados en un dashboard interactivo que muestr
 
 ---
 Proyecto creado por Tiago Rojas - Analista de Datos
+¿Preguntas o oportunidades? ¡Conectemos en Linkedin:[https://www.linkedin.com/in/tiago-rojas-047658317/?trk=opento_sprofile_details]!*
