@@ -90,8 +90,6 @@ Transformé 5 archivos CSV desorganizados en un dashboard interactivo que muestr
 - Diversificar cartera de productos y equilibrar desempeño del equipo
 - Capitalizar estacionalidad con campañas específicas
 
-**[📖 Ver Análisis Completo](5-documentacion/reporte-desempeno-detallado.md)**
-
 ---
 Proyecto creado por Tiago Rojas - Analista de Datos
 ¿Preguntas o oportunidades? ¡Conectemos en Linkedin:[https://www.linkedin.com/in/tiago-rojas-047658317/?trk=opento_sprofile_details]!*
