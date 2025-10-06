@@ -1,0 +1,81 @@
+product_id;product_name;category;price;Costo;supplier
+101;"Laptop EliteBook 15""";Tecnologí;1200;850,75;Techcorp
+102;Silla Oficina Ejecutiva;Muebles;250;200;Officesupplies
+103;Mouse Inalámbrico Pr;Tecnologí;4500;3250;Techcorp
+104;"Monitor 24"" 4K";Tecnologí;350;280;Displayco
+105;Escritorio Madera;Muebles;45075;370;Furnitureltd
+106;Teclado Mecánic;Tecnologí;8999;6525;Techcorp
+107;Tablet Pro 10;Tecnologí;29999;22500;Techcorp
+108;Impresora Láse;Tecnologí;18950;15075;Printsolutions
+109;Smartphone Ultra;Tecnologí;89900;65025;Mobiletech
+110;Auriculares Bluetooth;Tecnologí;7999;5550;Audiopro
+111;Silla Gamer;Muebles;32000;24075;Gamingcorp
+112;Monitor Curvo 27;Tecnologí;42500;35025;Displayco
+113;Portátil Gamin;Tecnologí;145000;110050;Gamingcorp
+114;Mesa Centro;Muebles;18025;13500;Furnitureltd
+115;Ratón Gamin;Tecnologí;6575;4825;Gamingcorp
+116;Alfombrilla XL;Accesorios;2599;1575;Officesupplies
+117;Webcam HD;Tecnologí;8950;6725;Techcorp
+118;Altavoz Bluetooth;Tecnologí;12000;8550;Audiopro
+119;Estantería Libro;Muebles;9575;7025;Furnitureltd
+120;Tablet Drawing;Tecnologí;45000;32075;Creativetech
+121;Silla Visitantes;Muebles;18000;13525;Officesupplies
+122;Monitor 32 4K;Tecnologí;55000;42050;Displayco
+123;Teclado Inalámbric;Tecnologí;7525;5575;Techcorp
+124;Lámpara Escritori;Iluminació;4599;3225;Homeoffice
+125;Cable USB-C;Accesorios;1550;875;Techcorp
+126;Fundas Portáti;Accesorios;3575;2250;Casemakers
+127;Pantalla 28 4K;Tecnologí;48000;38025;Displayco
+128;Silla Ergonómic;Muebles;28000;21075;Officesupplies
+129;Tablet Kids;Tecnologí;19999;15025;Kidstech
+130;Ratón Vertica;Tecnologí;8500;6250;Ergotech
+131;Microfono Estudio;Audio;12050;8525;Audiopro
+132;Disco Duro 1TB;Tecnologí;8999;6575;Techcorp
+133;Router WiFi;Tecnologí;7500;5250;Netcorp
+134;Switch 8 Puertos;Tecnologí;4525;3275;Netcorp
+135;Cámara Segurida;Tecnologí;19950;15025;Securitytech
+136;Smartwatch Deportivo;Tecnologí;25000;18575;Wearabletech
+137;Tablet 8 Pulgadas;Tecnologí;17999;13550;Techcorp
+138;Monitor 27 FHD;Tecnologí;32000;25025;Displayco
+139;Silla Conferencia;Muebles;22000;16575;Officesupplies
+140;Escritorio Ajustable;Muebles;52050;38025;Ergotech
+141;Teclado Numerico;Accesorios;3575;2250;Techcorp
+142;Hub USB-C;Accesorios;4299;2875;Techcorp
+143;Tablet Stand;Soportes;2550;1525;Officesupplies
+144;Monitor Brazo;Soportes;8999;6050;Ergotech
+145;Cable HDMI;Accesorios;1875;1025;Techcorp
+146;Funda Tablet;Accesorios;2999;1850;Casemakers
+147;Mouse Pad;Accesorios;1525;875;Officesupplies
+148;Soporte Portáti;Soportes;3500;2225;Ergotech
+149;Cargador Rápid;Tecnologí;4550;3075;Techcorp
+150;Batería Extern;Tecnologí;6525;4250;Powertech
+151;Auriculares Gaming;Audio;9575;6525;Gamingcorp
+152;Microfono USB;Audio;5500;3875;Audiopro
+153;Webcam 4K;Tecnologí;12550;8525;Techcorp
+154;Monitor 34 Ultrawide;Tecnologí;65000;48050;Displayco
+155;Silla Director;Muebles;38025;28075;Officesupplies
+156;Escritorio L;Muebles;42000;31025;Furnitureltd
+157;Archivador;Muebles;7550;5225;Officesupplies
+158;Estantería Metáli;Muebles;12075;8550;Furnitureltd
+159;Caja Fuerta;Seguridad;28000;21025;Securitytech
+160;Monitor 24 FHD;Tecnologí;27500;21075;Displayco
+161;Tablet 10 Pro;Tecnologí;32050;24025;Techcorp
+162;Smartphone Gama Media;Tecnologí;45000;32075;Mobiletech
+163;Portátil Ultraliger;Tecnologí;89000;65025;Techcorp
+164;Impresora Térmic;Tecnologí;15025;11050;Printsolutions
+165;Escáner Documento;Tecnologí;22000;16575;Printsolutions
+166;Proyector HD;Tecnologí;42050;31025;Displayco
+167;Tablet 7 Pulgadas;Tecnologí;14999;11025;Techcorp
+168;Monitor 22 HD;Tecnologí;23000;17550;Displayco
+169;Silla Recepcion;Muebles;19575;14525;Officesupplies
+170;Escritorio Compacto;Muebles;18000;13575;Furnitureltd
+171;Cable Ethernet;Accesorios;1299;725;Techcorp
+172;Adaptador USB;Accesorios;850;475;Techcorp
+173;Soporte Monitor;Soportes;4525;3050;Ergotech
+174;Funda Teclado;Accesorios;2275;1425;Casemakers
+175;Cargador Móvi;Tecnologí;3500;2275;Techcorp
+176;Power Bank;Tecnologí;4250;2825;Powertech
+177;Auriculares Deportivos;Audio;6575;4550;Audiopro
+178;Microfono Lavalier;Audio;8525;5875;Audiopro
+179;Webcam 1080p;Tecnologí;7599;5225;Techcorp
+180;Monitor 27 2K;Tecnologí;38000;29050;Displayco
