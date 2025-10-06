@@ -48,7 +48,7 @@ Transformé 5 archivos CSV desorganizados en un dashboard interactivo que muestr
 - ✅ **Top productos** con impacto de devoluciones
 - ✅ **Capacidad de drill-down** geográfico y por categoría
 
-### [4. Datos Procesados](enlace-a-carpeta)
+### [4. Datos Procesados](https://github.com/tiagorojas7/Analisis-de-ventas-Tienda-Ecommerce-Nexus-Shop-/tree/main/4_datos_procesados)
 
 **🧹 Datos Limpios y Listos para Análisis:**
 - Dataset final unificado y depurado
