@@ -1,0 +1,81 @@
+return_id,sale_id,return_date,return_reason,refund_amount
+1,10002,2024-01-25,Defectuoso,90.00
+2,10003,2024-02-20,Cambio de talla,250
+3,99999,2024-02-25,No satisfecho,150.50
+4,10007,2024-03-10,defectuoso,89.99
+5,10008,2024-03-12,ARREPENTIMIENTO,76.50
+6,10005,2024-02-28,Dañado durante envío,450.75
+7,10012,2024-04-05,No funciona,899.00
+8,10015,2024-04-15,Pantalla rota,425.00
+9,10018,2024-05-10,Defectuoso,131.50
+10,10022,2024-05-25,Cambio de modelo,191.50
+11,10025,2024-06-12,No satisface expectativas,550.00
+12,10030,2024-07-08,Defecto fabrica,480.00
+13,10033,2024-07-20,Incompatible,85.00
+14,10037,2024-08-15,Arrepentimiento,299.99
+15,10041,2024-08-28,Botón no funciona,131.50
+16,10045,2024-09-12,No le gusta,150.50
+17,10049,2024-10-05,Dañado,250.00
+18,10052,2024-10-20,No imprime,189.50
+19,10056,2024-11-10,Calidad inferior,103.96
+20,10060,2024-11-28,No enciende,45.99
+21,10065,2024-12-15,Defectuoso,899.00
+22,10068,2025-01-10,Mal funcionamiento,197.25
+23,10072,2025-01-25,Cambio de opinión,150.50
+24,10075,2025-02-12,No esperaba esto,199.99
+25,10078,2025-02-28,Defecto,89.99
+26,10082,2025-03-15,Dañado en transporte,360.50
+27,10085,2025-04-02,No compatible,450.00
+28,10089,2025-04-20,Calidad mala,180.00
+29,10092,2025-05-08,No funciona correctamente,899.00
+30,10095,2025-05-25,Botón stuck,131.50
+31,10098,2025-06-12,Color diferente,540.00
+32,10102,2025-06-30,Pantalla muerta,199.99
+33,10105,2025-07-18,No carga,89.99
+34,10108,2025-08-05,Píxeles muertos,425.00
+35,10112,2025-08-22,Demasiado grande,450.00
+36,10115,2025-09-10,Procesador lento,1200.50
+37,10118,2025-09-28,WiFi no funciona,299.99
+38,10122,2025-10-15,Altavoz roto,131.50
+39,10125,2025-11-02,Inestable,720.00
+40,10128,2025-11-20,No enciende,480.00
+41,10132,2025-12-08,Conector roto,89.99
+42,10135,2025-12-25,Color desvaído,425.00
+43,10138,2026-01-12,Sonido pobre,120.00
+44,10142,2026-01-30,Pantalla rayada,1200.50
+45,10145,2026-02-17,Batería defectuosa,299.99
+46,10148,2026-03-07,No arranca,1450.00
+47,10152,2026-03-25,Pierde conexión,540.00
+48,10155,2026-04-12,Calienta mucho,480.00
+49,10158,2026-04-30,Puerto USB roto,350.00
+50,10162,2026-05-18,Resolución baja,425.00
+51,10165,2026-06-05,Micrófono no funciona,120.00
+52,10168,2026-06-23,Pantalla táctil no responde,45.99
+53,10172,2026-07-11,Software defectuoso,299.99
+54,10175,2026-07-29,GPU defectuosa,1450.00
+55,10178,2026-08-16,Tecla stuck,95.75
+56,10182,2026-09-03,Altavoz distorsionado,480.00
+57,10185,2026-09-21,Tamaño incorrecto,350.00
+58,10188,2026-10-09,No mantiene carga,239.97
+59,10192,2026-10-27,Driver issues,120.00
+60,10195,2026-11-14,Carcasa rota,45.99
+61,10198,2026-12-02,Overheating,450.75
+62,10200,2026-12-20,Pantalla amarillenta,899.00
+63,10010,2024-03-20,Silla incómoda,250.00
+64,10014,2024-04-10,Color diferente,320.00
+65,10017,2024-04-25,Material pobre,540.75
+66,10021,2024-05-15,Sonido bajo,120.00
+67,10024,2024-05-30,Tamaño pequeño,720.00
+68,10027,2024-06-15,Luz no funciona,45.99
+69,10031,2024-07-05,No ergonómica,280.00
+70,10034,2024-07-22,Pantalla brillo bajo,1200.50
+71,10038,2024-08-12,Batería corta,899.00
+72,10043,2024-09-02,Estabilidad pobre,95.75
+73,10046,2024-09-20,Cable corto,77.50
+74,10050,2024-10-08,Conector suelto,350.00
+75,10053,2024-10-26,Volumen bajo,159.98
+76,10057,2024-11-13,No conecta,120.00
+77,10061,2024-12-01,Sobrecalentamiento,1200.50
+78,10064,2024-12-19,Impresión pobre,299.99
+79,10067,2025-01-06,Rendimiento bajo,1450.00
+80,10071,2025-01-24,Design flaw,180.00

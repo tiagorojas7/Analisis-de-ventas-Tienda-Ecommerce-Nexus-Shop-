@@ -1,0 +1,81 @@
+product_id,product_name,category,price,cost,supplier
+101,Laptop EliteBook 15",Tecnología,1.200,50,800.75,TechCorp
+102,Silla Oficina Ejecutiva,Muebles,250,175,25,OfficeSupplies
+103,Mouse Inalámbrico Pro,tecnologia,45.00,32.50,TechCorp
+104,Monitor 24" 4K,Tecnología,350,00,280.00,DisplayCo
+105,Escritorio Madera,muebles,450.75,320,50,FurnitureLtd
+106,Teclado Mecánico,TECNOLOGIA,89.99,65.25,TechCorp
+107,Tablet Pro 10,tecnologia,299.99,225.00,TechCorp
+108,Impresora Láser,tecnología,189.50,150.75,PrintSolutions
+109,Smartphone Ultra,Tecnologia,899.00,650.25,MobileTech
+110,Auriculares Bluetooth,TECNOLOGÍA,79.99,55.50,AudioPro
+111,Silla Gamer,muebles,320.00,240.75,GamingCorp
+112,Monitor Curvo 27,Tecnología,425.00,350.25,DisplayCo
+113,Portátil Gaming,TECNOLOGIA,1450.00,1100.50,GamingCorp
+114,Mesa Centro,muebles,180.25,135.00,FurnitureLtd
+115,Ratón Gaming,tecnologia,65.75,48.25,GamingCorp
+116,Alfombrilla XL,Accesorios,25.99,15.75,OfficeSupplies
+117,Webcam HD,Tecnología,89.50,67.25,TechCorp
+118,Altavoz Bluetooth,Tecnologia,120.00,85.50,AudioPro
+119,Estantería Libros,muebles,95.75,70.25,FurnitureLtd
+120,Tablet Drawing,TECNOLOGÍA,450.00,320.75,CreativeTech
+121,Silla Visitantes,Muebles,180.00,135.25,OfficeSupplies
+122,Monitor 32 4K,tecnologia,550.00,420.50,DisplayCo
+123,Teclado Inalámbrico,Tecnología,75.25,55.75,TechCorp
+124,Lámpara Escritorio,Iluminación,45.99,32.25,HomeOffice
+125,Cable USB-C,Accesorios,15.50,8.75,TechCorp
+126,Fundas Portátil,accesorios,35.75,22.50,CaseMakers
+127,Pantalla 28 4K,Tecnología,480.00,380.25,DisplayCo
+128,Silla Ergonómica,MUEBLES,280.00,210.75,OfficeSupplies
+129,Tablet Kids,Tecnologia,199.99,150.25,KidsTech
+130,Ratón Vertical,tecnología,85.00,62.50,ErgoTech
+131,Microfono Estudio,Audio,120.50,85.25,AudioPro
+132,Disco Duro 1TB,Tecnología,89.99,65.75,TechCorp
+133,Router WiFi,tecnologia,75.00,52.50,NetCorp
+134,Switch 8 Puertos,TECNOLOGÍA,45.25,32.75,NetCorp
+135,Cámara Seguridad,tecnología,199.50,150.25,SecurityTech
+136,Smartwatch Deportivo,Tecnologia,250.00,185.75,WearableTech
+137,Tablet 8 Pulgadas,tecnologia,179.99,135.50,TechCorp
+138,Monitor 27 FHD,Tecnología,320.00,250.25,DisplayCo
+139,Silla Conferencia,Muebles,220.00,165.75,OfficeSupplies
+140,Escritorio Ajustable,muebles,520.50,380.25,ErgoTech
+141,Teclado Numerico,Accesorios,35.75,22.50,TechCorp
+142,Hub USB-C,accesorios,42.99,28.75,TechCorp
+143,Tablet Stand,Soportes,25.50,15.25,OfficeSupplies
+144,Monitor Brazo,Soportes,89.99,60.50,ErgoTech
+145,Cable HDMI,Accesorios,18.75,10.25,TechCorp
+146,Funda Tablet,accesorios,29.99,18.50,CaseMakers
+147,Mouse Pad,Accesorios,15.25,8.75,OfficeSupplies
+148,Soporte Portátil,Soportes,35.00,22.25,ErgoTech
+149,Cargador Rápido,Tecnología,45.50,30.75,TechCorp
+150,Batería Externa,tecnologia,65.25,42.50,PowerTech
+151,Auriculares Gaming,Audio,95.75,65.25,GamingCorp
+152,Microfono USB,audio,55.00,38.75,AudioPro
+153,Webcam 4K,Tecnología,125.50,85.25,TechCorp
+154,Monitor 34 Ultrawide,tecnologia,650.00,480.50,DisplayCo
+155,Silla Director,Muebles,380.25,280.75,OfficeSupplies
+156,Escritorio L,muebles,420.00,310.25,FurnitureLtd
+157,Archivador,Muebles,75.50,52.25,OfficeSupplies
+158,Estantería Metálica,muebles,120.75,85.50,FurnitureLtd
+159,Caja Fuerta,Seguridad,280.00,210.25,SecurityTech
+160,Monitor 24 FHD,Tecnología,275.00,210.75,DisplayCo
+161,Tablet 10 Pro,tecnologia,320.50,240.25,TechCorp
+162,Smartphone Gama Media,Tecnologia,450.00,320.75,MobileTech
+163,Portátil Ultraligero,TECNOLOGIA,890.00,650.25,TechCorp
+164,Impresora Térmica,tecnología,150.25,110.50,PrintSolutions
+165,Escáner Documentos,Tecnología,220.00,165.75,PrintSolutions
+166,Proyector HD,tecnologia,420.50,310.25,DisplayCo
+167,Tablet 7 Pulgadas,Tecnologia,149.99,110.25,TechCorp
+168,Monitor 22 HD,Tecnología,230.00,175.50,DisplayCo
+169,Silla Recepcion,Muebles,195.75,145.25,OfficeSupplies
+170,Escritorio Compacto,muebles,180.00,135.75,FurnitureLtd
+171,Cable Ethernet,Accesorios,12.99,7.25,TechCorp
+172,Adaptador USB,accesorios,8.50,4.75,TechCorp
+173,Soporte Monitor,Soportes,45.25,30.50,ErgoTech
+174,Funda Teclado,accesorios,22.75,14.25,CaseMakers
+175,Cargador Móvil,Tecnología,35.00,22.75,TechCorp
+176,Power Bank,tecnologia,42.50,28.25,PowerTech
+177,Auriculares Deportivos,Audio,65.75,45.50,AudioPro
+178,Microfono Lavalier,audio,85.25,58.75,AudioPro
+179,Webcam 1080p,Tecnología,75.99,52.25,TechCorp
+180,Monitor 27 2K,tecnologia,380.00,290.50,DisplayCo
