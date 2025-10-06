@@ -12,7 +12,7 @@ Transformé 5 archivos CSV desorganizados en un dashboard interactivo que muestr
 
 ## 📁 Estructura del Proyecto
 
-### [1. Datos Originales](https://github.com/tiagorojas7/Analisis-de-ventas-Tienda-Ecommerce-Nexus-Shop-/tree/main?tab=readme-ov-file)
+### [1. Datos Originales](https://github.com/tiagorojas7/Analisis-de-ventas-Tienda-Ecommerce-Nexus-Shop-/tree/main/%3A%201-datos-crudos)
 - `clientes.csv` - Base de datos de clientes
 - `ventas.csv` - Transacciones comerciales
 - `productos.csv` - Catálogo de productos
