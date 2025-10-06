@@ -5,12 +5,10 @@ De Datos Crudos a Insights: Pipeline Completo de Análisis con SQL + Power Query
 ## 📊 Resumen del Proyecto
 Transformé 5 archivos CSV desorganizados en un dashboard interactivo que muestra tendencias de ventas, comportamiento de clientes y oportunidades de negocio.
 
-## 🔧 Herramientas que Usé
+## 🔧 Herramientas que utilice
 - **SQL** para unir y analizar los datos
 - **Power Query** para limpiar y organizar la información  
 - **Power BI** para crear gráficos y reportes interactivos
-
-## 📁 Qué Encontrarás en Este Proyecto
 
 ## 📁 Estructura del Proyecto
 
