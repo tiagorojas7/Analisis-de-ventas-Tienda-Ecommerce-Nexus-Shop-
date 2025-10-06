@@ -43,6 +43,9 @@ Transformé **5 datasets desorganizados** en un **dashboard interactivo** que id
 ![Análisis Específico](3-power-bi/04_filtros_interactivos.png)
 *Filtros en acción: Tecnología 2024 
 
+(3-power-bi/04_filtros_interactivos_2.png)
+*Filtros de ubicacion, categoria y año aplicados en el dashboard 
+
 **🔧 Lo que demuestra:**
 - ✅ **Segmentadores interactivos** que responden preguntas específicas
 - ✅ **Análisis de tendencias** temporales y por empleado
