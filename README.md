@@ -20,6 +20,21 @@ Transformé **5 datasets desorganizados** en un **dashboard interactivo** que id
 - `trabajadores.csv` - Información del equipo
 - `opiniones.csv` - Feedback y devoluciones
 
+ ### [4. Datos Procesados](https://github.com/tiagorojas7/Analisis-de-ventas-Tienda-Ecommerce-Nexus-Shop-/tree/main/4_datos_procesados)
+
+**🧹 Datos Limpios y Listos para Análisis:**
+- Dataset final unificado y depurado
+- Datos consistentes después de procesos ETL
+- Estructura optimizada para reporting
+- Base para el dashboard de Power BI
+
+**📊 Procesos de Limpieza Aplicados:**
+- Eliminación de duplicados y valores nulos
+- Transformacion de palabras mal escritas
+- Estandarización de formatos y categorías
+- Cálculo de métricas derivadas (márgenes, tasas)
+- Unificación de múltiples fuentes de datos
+
 ### [2. Consultas SQL](https://github.com/tiagorojas7/Analisis-de-ventas-Tienda-Ecommerce-Nexus-Shop-/tree/main/2-sql-queries)
 - [`01_union_tablas.sql`](2-sql-queries/01_union_tablas.sql) - Uniones básicas entre tablas
 - [`02_analisis_devoluciones.sql`](2-sql-queries/02_analisis_devoluciones.sql) - Tasa de devolución por producto
@@ -53,20 +68,6 @@ Transformé **5 datasets desorganizados** en un **dashboard interactivo** que id
 - ✅ **Top productos** con impacto de devoluciones
 - ✅ **Capacidad de drill-down** geográfico y por categoría
 
-### [4. Datos Procesados](https://github.com/tiagorojas7/Analisis-de-ventas-Tienda-Ecommerce-Nexus-Shop-/tree/main/4_datos_procesados)
-
-**🧹 Datos Limpios y Listos para Análisis:**
-- Dataset final unificado y depurado
-- Datos consistentes después de procesos ETL
-- Estructura optimizada para reporting
-- Base para el dashboard de Power BI
-
-**📊 Procesos de Limpieza Aplicados:**
-- Eliminación de duplicados y valores nulos
-- Transformacion de palabras mal escritas
-- Estandarización de formatos y categorías
-- Cálculo de métricas derivadas (márgenes, tasas)
-- Unificación de múltiples fuentes de datos
 
 ### [5. Documentación](https://github.com/tiagorojas7/Analisis-de-ventas-Tienda-Ecommerce-Nexus-Shop-/blob/main/Reporte/reporte-desempeno-detallado.md)
 - [`reporte-desempeno-detallado.md`](5-documentacion/reporte-desempeno-detallado.md) - Análisis completo de resultados
