@@ -33,13 +33,14 @@ Transformé **5 datasets desorganizados** en un **dashboard interactivo** que id
 - [`Dashboard Nexus Shop.pbix`](https://github.com/tiagorojas7/Analisis-de-ventas-Tienda-Ecommerce-Nexus-Shop-/blob/main/3-power-bi/Dashboard%20Nexus%20Shop.pbix) - Archivo completo interactivo
 - [`dashboard_documentation.md`](https://github.com/tiagorojas7/Analisis-de-ventas-Tienda-Ecommerce-Nexus-Shop-/blob/main/3-power-bi/dashboard_documentation.md) - Documentación detallada
 
-**🖼️ Vistas Destacadas:**
+**🖼️ Estado inicial Dashboard:**
 ![Vista General](3-power-bi/01_dashboard_completo.png)
 *Dashboard completo con filtros por categoría, año y ubicación*
 
 ![Tendencias Mensuales](3-power-bi/02_tendencias_mensuales.png)  
 *Evolución de ingresos y ventas por mes 
 
+**⚡ Filtros en Accion:**
 ![Análisis Específico](3-power-bi/04_filtros_interactivos.png)
 *Filtros en acción: Tecnología 2024 
 
