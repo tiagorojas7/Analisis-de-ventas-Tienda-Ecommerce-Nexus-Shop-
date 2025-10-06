@@ -19,7 +19,7 @@ Transformé 5 archivos CSV desorganizados en un dashboard interactivo que muestr
 - `trabajadores.csv` - Información del equipo
 - `opiniones.csv` - Feedback y devoluciones
 
-### [2. Consultas SQL](https://github.com/tiagorojas7/Analisis-de-ventas-Tienda-Ecommerce-Nexus-Shop-/tree/main?tab=readme-ov-file)
+### [2. Consultas SQL](https://github.com/tiagorojas7/Analisis-de-ventas-Tienda-Ecommerce-Nexus-Shop-/tree/main/2-sql-queries)
 - [`01_union_tablas.sql`](2-sql-queries/01_union_tablas.sql) - Uniones básicas entre tablas
 - [`02_analisis_devoluciones.sql`](2-sql-queries/02_analisis_devoluciones.sql) - Tasa de devolución por producto
 - [`03_analisis_ventas_productos.sql`](2-sql-queries/03_analisis_ventas_productos.sql) - Métricas por producto y categoría
