@@ -3,7 +3,8 @@ Análisis de Ventas - Tienda E-commerce Nexus Shop
 De Datos Crudos a Insights: Pipeline Completo de Análisis con SQL + Power Query + Power BI
 
 ## 📊 Resumen del Proyecto
-Transformé 5 archivos CSV desorganizados en un dashboard interactivo que muestra tendencias de ventas, comportamiento de clientes y oportunidades de negocio.
+Transformé **5 datasets desorganizados** en un **dashboard interactivo** que identificó **79 devoluciones críticas** y **oportunidades de crecimiento** para Nexus Shop, analizando **373 ventas** y **4.66M en ingresos**.
+
 
 ## 🔧 Herramientas que utilice
 - **SQL** para unir y analizar los datos
