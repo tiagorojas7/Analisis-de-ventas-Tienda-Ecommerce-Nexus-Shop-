@@ -28,8 +28,25 @@ Transformé 5 archivos CSV desorganizados en un dashboard interactivo que muestr
 - [`06_consulta_final_dashboard.sql`](2-sql-queries/06_consulta_final_dashboard.sql) - Datos consolidados para Power BI
 
 ### [3. Dashboard Power BI](https://github.com/tiagorojas7/Analisis-de-ventas-Tienda-Ecommerce-Nexus-Shop-/tree/main/3-power-bi)
-- `dashboard_nexus_shop.pbix` - Archivo interactivo completo
-- `dashboard_preview.png` - Vista previa del dashboard
+**📊 Dashboard Interactivo Nexus Shop:**
+- [`Dashboard Nexus Shop.pbix`](enlace) - Archivo completo interactivo
+- [`dashboard_documentation.md`](enlace) - Documentación detallada
+
+**🖼️ Vistas Destacadas:**
+![Vista General](3-power-bi/01_dashboard_completo.png)
+*Dashboard completo con filtros por categoría, año y ubicación*
+
+![Tendencias Mensuales](3-power-bi/02_tendencias_mensuales.png)  
+*Evolución de ingresos y ventas por mes 
+
+![Análisis Específico](3-power-bi/04_filtros_interactivos.png)
+*Filtros en acción: Tecnología 2024 
+
+**🔧 Lo que demuestra:**
+- ✅ **Segmentadores interactivos** que responden preguntas específicas
+- ✅ **Análisis de tendencias** temporales y por empleado
+- ✅ **Top productos** con impacto de devoluciones
+- ✅ **Capacidad de drill-down** geográfico y por categoría
 
 ### [4. Datos Procesados](https://github.com/tiagorojas7/Analisis-de-ventas-Tienda-Ecommerce-Nexus-Shop-/tree/main?tab=readme-ov-file)
 - Dataset final limpio y listo para análisis
