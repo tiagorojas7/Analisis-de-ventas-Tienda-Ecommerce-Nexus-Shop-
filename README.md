@@ -12,14 +12,14 @@ Transformé 5 archivos CSV desorganizados en un dashboard interactivo que muestr
 
 ## 📁 Estructura del Proyecto
 
-### [1. Datos Originales](:1-datos-crudos/)
+### [1. Datos Originales](https://github.com/tiagorojas7/Analisis-de-ventas-Tienda-Ecommerce-Nexus-Shop-/tree/main?tab=readme-ov-file)
 - `clientes.csv` - Base de datos de clientes
 - `ventas.csv` - Transacciones comerciales
 - `productos.csv` - Catálogo de productos
 - `trabajadores.csv` - Información del equipo
 - `opiniones.csv` - Feedback y devoluciones
 
-### [2. Consultas SQL](2-sql-queries/)
+### [2. Consultas SQL](https://github.com/tiagorojas7/Analisis-de-ventas-Tienda-Ecommerce-Nexus-Shop-/tree/main?tab=readme-ov-file)
 - [`01_union_tablas.sql`](2-sql-queries/01_union_tablas.sql) - Uniones básicas entre tablas
 - [`02_analisis_devoluciones.sql`](2-sql-queries/02_analisis_devoluciones.sql) - Tasa de devolución por producto
 - [`03_analisis_ventas_productos.sql`](2-sql-queries/03_analisis_ventas_productos.sql) - Métricas por producto y categoría
@@ -27,14 +27,14 @@ Transformé 5 archivos CSV desorganizados en un dashboard interactivo que muestr
 - [`05_analisis_clientes.sql`](2-sql-queries/05_analisis_clientes.sql) - Comportamiento y distribución geográfica
 - [`06_consulta_final_dashboard.sql`](2-sql-queries/06_consulta_final_dashboard.sql) - Datos consolidados para Power BI
 
-### [3. Dashboard Power BI](3-power-bi/)
+### [3. Dashboard Power BI](https://github.com/tiagorojas7/Analisis-de-ventas-Tienda-Ecommerce-Nexus-Shop-/tree/main?tab=readme-ov-file)
 - `dashboard_nexus_shop.pbix` - Archivo interactivo completo
 - `dashboard_preview.png` - Vista previa del dashboard
 
-### [4. Datos Procesados](4-datos-procesados/)
+### [4. Datos Procesados](https://github.com/tiagorojas7/Analisis-de-ventas-Tienda-Ecommerce-Nexus-Shop-/tree/main?tab=readme-ov-file)
 - Dataset final limpio y listo para análisis
 
-### [5. Documentación](5-documentacion/)
+### [5. Documentación](https://github.com/tiagorojas7/Analisis-de-ventas-Tienda-Ecommerce-Nexus-Shop-/tree/main?tab=readme-ov-file)
 - [`reporte-desempeno-detallado.md`](5-documentacion/reporte-desempeno-detallado.md) - Análisis completo de resultados
 
 ## 📈 Resultados y Impacto
